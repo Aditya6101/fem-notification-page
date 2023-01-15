@@ -6,7 +6,7 @@ const Notification = ({ notification }: { notification: NotificationType }) => {
       } flex p-2 rounded gap-2`}
     >
       <img
-        src={`./src/assets/images/avatar-${notification.user
+        src={`/assets/images/avatar-${notification.user
           .replace(" ", "-")
           .toLowerCase()}.webp`}
         alt={notification.user}
