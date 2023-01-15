@@ -1,0 +1,52 @@
+[
+    {
+        "id": "123",
+        "user": "Mark Webber",
+        "isRead": false,
+        "text": "reacted to your recent post My first tournament today!",
+        "date": "1m ago"
+    },
+    {
+        "id": "234",
+        "user": "Angela Gray",
+        "isRead": false,
+        "text": "followed you",
+        "date": "5m ago"
+    },
+    {
+        "id": "345",
+        "user": "Jacob Thompson",
+        "isRead": false,
+        "text": "has joined your group Chess Club",
+        "date": "1 day ago"
+    },
+    {
+        "id": "567",
+        "user": "Rizky Hasanuddin",
+        "isRead": false,
+        "text": "sent you a private message",
+        "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+        "date": "5 days ago"
+    },
+    {
+        "id": "678",
+        "user": "Nathan Peterson",
+        "isRead": true,
+        "text": "reacted to your recent post 5 end-game strategies to increase your win rate",
+        "date": "2 weeks ago"
+    },
+    {
+        "id": "789",
+        "user": "Kimberly Smith",
+        "isRead": true,
+        "text": "commented on your picture",
+        "date": "1 weeks ago"
+    },
+    {
+        "id": "890",
+        "user": "Anna Kim",
+        "isRead": true,
+        "text": "left the group Chess Club",
+        "date": "2 weeks ago"
+    }
+]
